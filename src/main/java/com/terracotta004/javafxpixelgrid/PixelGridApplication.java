@@ -9,7 +9,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-public class HelloApplication extends Application {
+public class PixelGridApplication extends Application {
     private static final int GRID_SIZE = 25;
     private static final int CELL_SIZE = 20;
     private static final double GAP = 1;
